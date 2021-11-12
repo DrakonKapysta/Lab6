@@ -1,0 +1,358 @@
+﻿  Order.cpp
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(const Customer<std::string,int,int> &)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(22): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(14): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(13): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::SetRequest(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(15): message : see declaration of 'Customer<std::string,int,int>::SetRequest'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T1 &Customer<T1,int,int>::GetRequest(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(16): message : see declaration of 'Customer<std::string,int,int>::GetRequest'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T1 Customer<T1,int,int>::GetCustomerName(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(17): message : see declaration of 'Customer<std::string,int,int>::GetCustomerName'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T2 &Customer<std::string,T2,int>::GetPrice(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(18): message : see declaration of 'Customer<std::string,int,int>::GetPrice'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T2 &Customer<std::string,T2,int>::GetDays(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(19): message : see declaration of 'Customer<std::string,int,int>::GetDays'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::SetPrice(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(20): message : see declaration of 'Customer<std::string,int,int>::SetPrice'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::~Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(21): message : see declaration of 'Customer<std::string,int,int>::~Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::HaveAbaby(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(23): message : see declaration of 'Customer<std::string,int,int>::HaveAbaby'
+  PoorCustomer.cpp
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(const Customer<std::string,int,int> &)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(22): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(14): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(13): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::SetRequest(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(15): message : see declaration of 'Customer<std::string,int,int>::SetRequest'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T1 &Customer<T1,int,int>::GetRequest(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(16): message : see declaration of 'Customer<std::string,int,int>::GetRequest'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T1 Customer<T1,int,int>::GetCustomerName(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(17): message : see declaration of 'Customer<std::string,int,int>::GetCustomerName'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T2 &Customer<std::string,T2,int>::GetPrice(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(18): message : see declaration of 'Customer<std::string,int,int>::GetPrice'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T2 &Customer<std::string,T2,int>::GetDays(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(19): message : see declaration of 'Customer<std::string,int,int>::GetDays'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::SetPrice(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(20): message : see declaration of 'Customer<std::string,int,int>::SetPrice'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::~Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(21): message : see declaration of 'Customer<std::string,int,int>::~Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::HaveAbaby(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(23): message : see declaration of 'Customer<std::string,int,int>::HaveAbaby'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'Customer<std::string,int,int>::Customer(const Customer<std::string,int,int> &)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(22): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'Customer<std::string,int,int>::Customer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(14): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'Customer<std::string,int,int>::Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(13): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'void Customer<std::string,int,int>::SetRequest(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(15): message : see declaration of 'Customer<std::string,int,int>::SetRequest'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'T1 &Customer<T1,int,int>::GetRequest(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(16): message : see declaration of 'Customer<std::string,int,int>::GetRequest'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'T1 Customer<T1,int,int>::GetCustomerName(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(17): message : see declaration of 'Customer<std::string,int,int>::GetCustomerName'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'T2 &Customer<std::string,T2,int>::GetPrice(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(18): message : see declaration of 'Customer<std::string,int,int>::GetPrice'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'T2 &Customer<std::string,T2,int>::GetDays(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(19): message : see declaration of 'Customer<std::string,int,int>::GetDays'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'void Customer<std::string,int,int>::SetPrice(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(20): message : see declaration of 'Customer<std::string,int,int>::SetPrice'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'Customer<std::string,int,int>::~Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(21): message : see declaration of 'Customer<std::string,int,int>::~Customer'
+D:\Laba_3\Laba_3\PoorCustomer.cpp(14): warning C4661: 'void Customer<std::string,int,int>::HaveAbaby(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(23): message : see declaration of 'Customer<std::string,int,int>::HaveAbaby'
+  Source.cpp
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(const Customer<std::string,int,int> &)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(22): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(14): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(13): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::SetRequest(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(15): message : see declaration of 'Customer<std::string,int,int>::SetRequest'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T1 &Customer<T1,int,int>::GetRequest(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(16): message : see declaration of 'Customer<std::string,int,int>::GetRequest'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T1 Customer<T1,int,int>::GetCustomerName(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(17): message : see declaration of 'Customer<std::string,int,int>::GetCustomerName'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T2 &Customer<std::string,T2,int>::GetPrice(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(18): message : see declaration of 'Customer<std::string,int,int>::GetPrice'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T2 &Customer<std::string,T2,int>::GetDays(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(19): message : see declaration of 'Customer<std::string,int,int>::GetDays'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::SetPrice(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(20): message : see declaration of 'Customer<std::string,int,int>::SetPrice'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::~Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(21): message : see declaration of 'Customer<std::string,int,int>::~Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::HaveAbaby(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(23): message : see declaration of 'Customer<std::string,int,int>::HaveAbaby'
+D:\Laba_3\Laba_3\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::~VipCustomer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\VipCustomer.h(13): message : see declaration of 'VipCustomer<std::string,int,int>::~VipCustomer'
+D:\Laba_3\Laba_3\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::VipCustomer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\VipCustomer.h(15): message : see declaration of 'VipCustomer<std::string,int,int>::VipCustomer'
+D:\Laba_3\Laba_3\VipCustomer.h(20): warning C4661: 'VipCustomer<std::string,int,int>::VipCustomer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\VipCustomer.h(14): message : see declaration of 'VipCustomer<std::string,int,int>::VipCustomer'
+D:\Laba_3\Laba_3\VipCustomer.h(20): warning C4661: 'void VipCustomer<std::string,int,int>::Discount(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\VipCustomer.h(16): message : see declaration of 'VipCustomer<std::string,int,int>::Discount'
+D:\Laba_3\Laba_3\PoorCustomer.h(16): warning C4661: 'PoorCustomer<std::string,int,int>::~PoorCustomer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\PoorCustomer.h(10): message : see declaration of 'PoorCustomer<std::string,int,int>::~PoorCustomer'
+D:\Laba_3\Laba_3\PoorCustomer.h(16): warning C4661: 'PoorCustomer<std::string,int,int>::PoorCustomer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\PoorCustomer.h(12): message : see declaration of 'PoorCustomer<std::string,int,int>::PoorCustomer'
+D:\Laba_3\Laba_3\PoorCustomer.h(16): warning C4661: 'PoorCustomer<std::string,int,int>::PoorCustomer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\PoorCustomer.h(11): message : see declaration of 'PoorCustomer<std::string,int,int>::PoorCustomer'
+D:\Laba_3\Laba_3\PoorCustomer.h(16): warning C4661: 'void PoorCustomer<std::string,int,int>::Discount(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\PoorCustomer.h(13): message : see declaration of 'PoorCustomer<std::string,int,int>::Discount'
+  VipCustomer.cpp
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(const Customer<std::string,int,int> &)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(22): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(14): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(13): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::SetRequest(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(15): message : see declaration of 'Customer<std::string,int,int>::SetRequest'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T1 &Customer<T1,int,int>::GetRequest(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(16): message : see declaration of 'Customer<std::string,int,int>::GetRequest'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T1 Customer<T1,int,int>::GetCustomerName(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(17): message : see declaration of 'Customer<std::string,int,int>::GetCustomerName'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T2 &Customer<std::string,T2,int>::GetPrice(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(18): message : see declaration of 'Customer<std::string,int,int>::GetPrice'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'T2 &Customer<std::string,T2,int>::GetDays(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(19): message : see declaration of 'Customer<std::string,int,int>::GetDays'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::SetPrice(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(20): message : see declaration of 'Customer<std::string,int,int>::SetPrice'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'Customer<std::string,int,int>::~Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(21): message : see declaration of 'Customer<std::string,int,int>::~Customer'
+D:\Laba_3\Laba_3\Customer.h(31): warning C4661: 'void Customer<std::string,int,int>::HaveAbaby(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(23): message : see declaration of 'Customer<std::string,int,int>::HaveAbaby'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'Customer<std::string,int,int>::Customer(const Customer<std::string,int,int> &)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(22): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'Customer<std::string,int,int>::Customer(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(14): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'Customer<std::string,int,int>::Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(13): message : see declaration of 'Customer<std::string,int,int>::Customer'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'void Customer<std::string,int,int>::SetRequest(T1,T1,T3,T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string,
+              T3=int,
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(15): message : see declaration of 'Customer<std::string,int,int>::SetRequest'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'T1 &Customer<T1,int,int>::GetRequest(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(16): message : see declaration of 'Customer<std::string,int,int>::GetRequest'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'T1 Customer<T1,int,int>::GetCustomerName(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T1=std::string
+          ]
+D:\Laba_3\Laba_3\Customer.h(17): message : see declaration of 'Customer<std::string,int,int>::GetCustomerName'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'T2 &Customer<std::string,T2,int>::GetPrice(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(18): message : see declaration of 'Customer<std::string,int,int>::GetPrice'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'T2 &Customer<std::string,T2,int>::GetDays(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(19): message : see declaration of 'Customer<std::string,int,int>::GetDays'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'void Customer<std::string,int,int>::SetPrice(T2)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T2=int
+          ]
+D:\Laba_3\Laba_3\Customer.h(20): message : see declaration of 'Customer<std::string,int,int>::SetPrice'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'Customer<std::string,int,int>::~Customer(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(21): message : see declaration of 'Customer<std::string,int,int>::~Customer'
+D:\Laba_3\Laba_3\VipCustomer.cpp(15): warning C4661: 'void Customer<std::string,int,int>::HaveAbaby(void)': no suitable definition provided for explicit template instantiation request
+D:\Laba_3\Laba_3\Customer.h(23): message : see declaration of 'Customer<std::string,int,int>::HaveAbaby'
+  Generating Code...
+  Laba_3.vcxproj -> D:\Laba_3\Debug\Laba_3.exe
